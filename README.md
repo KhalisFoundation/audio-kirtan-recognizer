@@ -1,6 +1,8 @@
 # audio-kirtan-recognizer
 Audio Kirtan Recognizer
 
+_Note: This repo started during a weekend hackathon, so the quality needs to be improved_
+
 # authenticate w/ google cloud
 ```gcloud auth application-default login```
 
@@ -14,10 +16,10 @@ Note: APIs for Automatic speech to text should be enabled
 python main.py
 ```
 
-# convering mp3 to flac
+# converting mp3 to flac
  ffmpeg -i input.mp3 output.flac
 
-# Collab links
+# Hackathon Collab links
 [Audio File Segmentation](https://colab.research.google.com/drive/1lTl3DV7D--YcL6d0GpbocdxDdMOwXPw7)
 
 [Music Source separation](https://colab.research.google.com/drive/1KfkPhuNtizmCpNHU0jkSo3tOrrJx6qAR)
