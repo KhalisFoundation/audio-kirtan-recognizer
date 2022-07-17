@@ -1,2 +1,0 @@
-gcloud==0.18.3
-google-cloud-speech==2.14.1
